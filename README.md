@@ -59,17 +59,17 @@ Access and share resources through the database and publication interface.
 ![Register Page](projet%20ENSILAB/image-018.png)
 *Caption: This is the Register page of the application.*
 
-![Login Page](projet%20ENSILAB/image-019.png)
-*Caption: This is the login page of the application.*
+![Home Page](projet%20ENSILAB/image-019.png)
+*Caption: This is the Home page of the application.*
 
-![Login Page](projet%20ENSILAB/image-024.png)
-*Caption: This is the login page of the application.*
+![Chat Interface](projet%20ENSILAB/image-024.png)
+*Caption: This is the chat interface of the application.*
 
-![Login Page](projet%20ENSILAB/image-026.png)
-*Caption: This is the login page of the application.*
+![Notification Interface](projet%20ENSILAB/image-026.png)
+*Caption: This is the Notification interface of the application.*
 
-![Login Page](projet%20ENSILAB/image-028.png)
-*Caption: This is the login page of the application.*
+![Connection History](projet%20ENSILAB/image-028.png)
+*Caption: This is the Connection History interface of the application.*
 
 ![Login Page](projet%20ENSILAB/image-030.png)
 *Caption: This is the login page of the application.*
@@ -77,9 +77,9 @@ Access and share resources through the database and publication interface.
 ![Login Page](projet%20ENSILAB/image-032.png)
 *Caption: This is the login page of the application.*
 
-![Login Page](projet%20ENSILAB/image-034.png)
+![Login Page](projet%20ENSILAB/image-034.jpg)
 *Caption: This is the login page of the application.*
 
-![Login Page](projet%20ENSILAB/image-035.png)
+![Login Page](projet%20ENSILAB/image-035.jpg)
 *Caption: This is the login page of the application.*
 
