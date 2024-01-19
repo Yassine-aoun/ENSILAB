@@ -74,12 +74,6 @@ Access and share resources through the database and publication interface.
 ![Article and Announcement Titles](projet%20ENSILAB/image-030.png)
 *Caption: This is a page showing the titles of articles and announcements shared by the account.*
 
-![Login Page](projet%20ENSILAB/image-032.png)
-*Caption: This is the login page of the application.*
-
-![Login Page](projet%20ENSILAB/image-034.jpg)
-    *Caption: This is an example of how the published content is displayed after clicking "POST."*
-
 ![Published Content](projet%20ENSILAB/image-035.jpg)
     *Caption: This is an example of how the published content is displayed after clicking "POST."*
 
