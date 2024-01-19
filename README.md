@@ -14,7 +14,6 @@ on the platform.
 - **Database Access**: Provides access to extensive laboratory databases.
 - **Content Sharing**: Enables posting and sharing of text, links, and images.
 
-![Interface Screenshot](path_to_your_image)
 
 ## Technical Stack
 - **Frontend**: HTML, CSS, JavaScript
@@ -27,8 +26,6 @@ The application includes two main components:
 1. **User Authentication**: Sign-up and login functionality (`index.php`).
 2. **Main Functionalities**: Core features like chat, posting, and
 database access.
-
-![Architecture Diagram](path_to_your_image)
 
 ## Installation
 
