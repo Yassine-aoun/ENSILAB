@@ -71,15 +71,15 @@ Access and share resources through the database and publication interface.
 ![Connection History](projet%20ENSILAB/image-028.png)
 *Caption: This is the Connection History interface of the application.*
 
-![Login Page](projet%20ENSILAB/image-030.png)
-*Caption: This is the login page of the application.*
+![Article and Announcement Titles](projet%20ENSILAB/image-030.png)
+*Caption: This is a page showing the titles of articles and announcements shared by the account.*
 
 ![Login Page](projet%20ENSILAB/image-032.png)
 *Caption: This is the login page of the application.*
 
 ![Login Page](projet%20ENSILAB/image-034.jpg)
-*Caption: This is the login page of the application.*
+    *Caption: This is an example of how the published content is displayed after clicking "POST."*
 
-![Login Page](projet%20ENSILAB/image-035.jpg)
-*Caption: This is the login page of the application.*
+![Published Content](projet%20ENSILAB/image-035.jpg)
+    *Caption: This is an example of how the published content is displayed after clicking "POST."*
 
