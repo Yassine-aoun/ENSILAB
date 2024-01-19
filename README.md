@@ -54,26 +54,26 @@ Access and share resources through the database and publication interface.
 ## Application Screenshots
 
 ![Login Page](projet%20ENSILAB/image-017.png)
-*Caption: This is the login page of the application.*
+*Caption: Login page of the application.*
 
 ![Register Page](projet%20ENSILAB/image-018.png)
-*Caption: This is the Register page of the application.*
+*Caption: Registration page of the application.*
 
 ![Home Page](projet%20ENSILAB/image-019.png)
-*Caption: This is the Home page of the application.*
+*Caption: Home page of the application.*
 
 ![Chat Interface](projet%20ENSILAB/image-024.png)
-*Caption: This is the chat interface of the application.*
+*Caption: Chat interface of the application.*
 
 ![Notification Interface](projet%20ENSILAB/image-026.png)
-*Caption: This is the Notification interface of the application.*
+*Caption: Notification interface of the application.*
 
 ![Connection History](projet%20ENSILAB/image-028.png)
-*Caption: This is the Connection History interface of the application.*
+*Caption: Connection history interface of the application.*
 
 ![Article and Announcement Titles](projet%20ENSILAB/image-030.png)
-*Caption: This is a page showing the titles of articles and announcements shared by the account.*
+*Caption: Page showing titles of articles and announcements shared by the account.*
 
 ![Published Content](projet%20ENSILAB/image-035.jpg)
-    *Caption: This is an example of how the published content is displayed after clicking "POST."*
+*Caption: Example of how the published content is displayed after clicking "POST."*
 
