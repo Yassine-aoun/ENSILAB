@@ -51,27 +51,35 @@ Navigating the Interface:
 
 Utilize the chat feature for communication.
 Access and share resources through the database and publication interface.
+## Application Screenshots
 
 
-![Login Page](image-016.png)
+![Login Page](projet ENSILAB/image-017.png)
 *Caption: This is the login page of the application.*
-![Login Page](image-017.png)
+
+![Register Page](projet ENSILAB/image-018.png)
+*Caption: This is the Register page of the application.*
+
+![Login Page](projet ENSILAB/image-019.png)
 *Caption: This is the login page of the application.*
-![Login Page](image-018.png)
+
+![Login Page](projet ENSILAB/image-024.png)
 *Caption: This is the login page of the application.*
-![Login Page](image-019.png)
+
+![Login Page](projet ENSILAB/image-026.png)
 *Caption: This is the login page of the application.*
-![Login Page](image-024.png)
+
+![Login Page](projet ENSILAB/image-028.png)
 *Caption: This is the login page of the application.*
-![Login Page](image-026.png)
+
+![Login Page](projet ENSILAB/image-030.png)
 *Caption: This is the login page of the application.*
-![Login Page](image-028.png)
+
+![Login Page](projet ENSILAB/image-032.png)
 *Caption: This is the login page of the application.*
-![Login Page](image-030.png)
+
+![Login Page](projet ENSILAB/image-034.png)
 *Caption: This is the login page of the application.*
-![Login Page](image-032.png)
-*Caption: This is the login page of the application.*
-![Login Page](image-034.png)
-*Caption: This is the login page of the application.*
-![Login Page](image-035.png)
+
+![Login Page](projet ENSILAB/image-035.png)
 *Caption: This is the login page of the application.*
